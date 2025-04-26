@@ -18,7 +18,7 @@ fun main() {
     var odemeTarihi : String="22.04.2025"
     val odeme : Int=556
     var siparisAdedi : Int=100
-    var model : String= "Honda"
+    var arabaModeli : String= "Honda"
     var kitapAdi: String="Dava"
     var yayinlanmaTarihi: String="22.04.2025"
     val indirimMiktari: String="%25"
@@ -51,6 +51,57 @@ fun main() {
     val kuponKodu : String = "SpringSale"
     val faturaAdresi : String = "a mahallesi, b sokagı, no :5, daire:10, Istanbul"
 
+    println(sehir)
+    println(ulke)
+    println(phone)
+    println(postaKodu)
+    println(email)
+    println(meslek)
+    println(stokMiktari)
+    println(musteriAdi)
+    println(bakiye)
+    println(dogumGunu)
+    println(maas)
+    println(medeniDurumu)
+    println(urunYorumu)
 
+
+    println(odemeTarihi)
+    println(odeme)
+    println(siparisAdedi)
+    println(arabaModeli)
+    println(kitapAdi)
+    println(yayinlanmaTarihi)
+    println(indirimMiktari)
+    println(odaSayisi)
+    println(enlem)
+    println(boylam)
+    println(urunAdi)
+    println(yemekFiyati)
+
+
+    println(marka)
+    println(muzikAdi)
+    println(videoSuresi)
+    println(urunPuani)
+    println(resimAdi)
+    println(dosyaFormati)
+    println(renk)
+    println(renkKodu)
+    println(telefonModeli)
+    println(ekranBoyutu)
+    println(agirlik)
+
+
+    println(ulusalGun)
+    println(tatilGunu)
+    println(rezervasyonTarihi)
+    println(sokakAdi)
+    println(otobusHatti)
+    println(kalanDakika)
+    println(takipKodu)
+    println(kuponSuresi)
+    println(kuponKodu)
+    println(faturaAdresi)
 
 }
